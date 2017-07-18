@@ -6,6 +6,10 @@
   "scripts": {
     "start": "webpack-dev-server --hot"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmarr768/reactreduxtodo.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
